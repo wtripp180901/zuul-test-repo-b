@@ -11,4 +11,4 @@
         - independent-test
     gate:
       jobs:
-        - dependent-tests
+        - dependent-test
